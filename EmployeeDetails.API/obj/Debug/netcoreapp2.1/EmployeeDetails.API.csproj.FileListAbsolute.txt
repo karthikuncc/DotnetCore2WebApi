@@ -1,0 +1,14 @@
+C:\Users\scoda\EmployeeDetails.API\bin\Debug\netcoreapp2.1\EmployeeDetails.API.deps.json
+C:\Users\scoda\EmployeeDetails.API\bin\Debug\netcoreapp2.1\EmployeeDetails.API.runtimeconfig.json
+C:\Users\scoda\EmployeeDetails.API\bin\Debug\netcoreapp2.1\EmployeeDetails.API.runtimeconfig.dev.json
+C:\Users\scoda\EmployeeDetails.API\bin\Debug\netcoreapp2.1\EmployeeDetails.API.dll
+C:\Users\scoda\EmployeeDetails.API\bin\Debug\netcoreapp2.1\EmployeeDetails.API.pdb
+C:\Users\scoda\EmployeeDetails.API\obj\Debug\netcoreapp2.1\EmployeeDetails.API.csprojAssemblyReference.cache
+C:\Users\scoda\EmployeeDetails.API\obj\Debug\netcoreapp2.1\EmployeeDetails.API.csproj.CoreCompileInputs.cache
+C:\Users\scoda\EmployeeDetails.API\obj\Debug\netcoreapp2.1\EmployeeDetails.API.RazorAssemblyInfo.cache
+C:\Users\scoda\EmployeeDetails.API\obj\Debug\netcoreapp2.1\EmployeeDetails.API.RazorAssemblyInfo.cs
+C:\Users\scoda\EmployeeDetails.API\obj\Debug\netcoreapp2.1\EmployeeDetails.API.AssemblyInfoInputs.cache
+C:\Users\scoda\EmployeeDetails.API\obj\Debug\netcoreapp2.1\EmployeeDetails.API.AssemblyInfo.cs
+C:\Users\scoda\EmployeeDetails.API\obj\Debug\netcoreapp2.1\EmployeeDetails.API.RazorTargetAssemblyInfo.cache
+C:\Users\scoda\EmployeeDetails.API\obj\Debug\netcoreapp2.1\EmployeeDetails.API.dll
+C:\Users\scoda\EmployeeDetails.API\obj\Debug\netcoreapp2.1\EmployeeDetails.API.pdb
